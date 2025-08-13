@@ -26,3 +26,6 @@ NOTE: THIS METHOD **REQUIRES** YOU TO HAVE PYTHON INSTALLED.
 ---
 
 I hope you enjoy tinkering with this as much as I did making it!
+
+John Fiore\
+08-13-2025
